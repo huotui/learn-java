@@ -5,7 +5,8 @@ package org.wcong.test.autovalue;
  */
 public class AutoValueTest {
     public static void main(String[] args) {
-        MyClass myClass = MyClass.create("world");
-        System.out.println(myClass);
+      //TODO ihuotui
+//        MyClass myClass = MyClass.create("world");
+//        System.out.println(myClass);
     }
 }

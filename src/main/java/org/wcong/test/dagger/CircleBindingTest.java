@@ -14,8 +14,9 @@ import javax.inject.Singleton;
  */
 public class CircleBindingTest {
 	public static void main(String[] args) {
-		MyComponent myComponent = DaggerCircleBindingTest_MyComponent.builder().build();
-		myComponent.getExportClass().print();
+	    //TODO ihuotui
+//		MyComponent myComponent = DaggerCircleBindingTest_MyComponent.builder().build();
+//		myComponent.getExportClass().print();
 	}
 
 	@Singleton

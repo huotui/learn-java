@@ -15,8 +15,9 @@ import javax.inject.Singleton;
  */
 public class DaggerTest {
 	public static void main(String[] args) {
-		Coffee coffee = DaggerDaggerTest_Coffee.builder().build();
-		coffee.maker().brew();
+	  //TODO ihuotui
+//		Coffee coffee = DaggerDaggerTest_Coffee.builder().build();
+//		coffee.maker().brew();
 	}
 
 	@Singleton

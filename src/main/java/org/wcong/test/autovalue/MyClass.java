@@ -7,9 +7,10 @@ import com.google.auto.value.AutoValue;
  */
 @AutoValue
 abstract class MyClass {
-    static MyClass create(String hello) {
-        return new AutoValue_MyClass(hello);
-    }
+  //TODO ihuotui
+//    static MyClass create(String hello) {
+//        return new AutoValue_MyClass(hello);
+//    }
 
     abstract String hello();
 }
